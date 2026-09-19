@@ -32,14 +32,14 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 * Verify the generated results.
 
 ## Tabulation
-<img width="1600" height="1126" alt="image" src="https://github.com/user-attachments/assets/958c2dfe-d49c-42a0-9309-cafc03fed39a" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/6de75bcd-eadb-4166-8e89-c8a39daff94d" />
 
 ## Calculation
-<img width="1600" height="1519" alt="image" src="https://github.com/user-attachments/assets/564a9f47-2d89-468a-ba44-15bcb7e478f5" />
-<img width="1599" height="1478" alt="image" src="https://github.com/user-attachments/assets/91d0dbbe-db40-4234-a12c-e52a1d88f773" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/660922b4-4432-4f1a-ab71-a45576498dc3" />
+
 
 ## Outpt
-<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/845e2f68-37cc-4489-a9b4-5b526bdae61e" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/132620d4-9890-4413-a16f-f1084d359636" />
 
 
 ## Result

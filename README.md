@@ -40,10 +40,14 @@ To write a program for mean, variance and cross correlation in SCILAB and verify
 
 ## Outpt
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/132620d4-9890-4413-a16f-f1084d359636" />
+## mark splitup
+<img width="1600" height="770" alt="image" src="https://github.com/user-attachments/assets/cec78f64-132b-4c57-a5bf-43f4e637dcbd" />
+
 
 
 ## Result
-Thus the mean and variance are executed in Scilab and output is verified.
+<img width="1303" height="403" alt="image" src="https://github.com/user-attachments/assets/819482cf-40bf-4080-bb41-5a39ae72d8c1" />
+
 
 
  
